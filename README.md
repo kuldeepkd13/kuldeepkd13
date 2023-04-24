@@ -3,11 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuldeepkd13&label=Profile%20views&color=0e75b6&style=flat" alt="kuldeepkd13" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://kuldeepkd13.github.io/](https://kuldeepkd13.github.io/)
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🌱 I’m currently learning **Node Backend**
 
 - 💬 Ask me about **html ,CSS, JavaScript, Nodejs**
 
 - 📫 How to reach me **nkuldeep615@gmail.com**
+
+- <p>Portfolio - <a href="https://kuldeepkd13.github.io/">Kuldeep Negi</a></p>
+
+- <p>Resume -<a href="https://drive.google.com/file/d/16JrcbczRe513_FSivXWaQdbFUyytkddO/view?usp=share_link">Kuldeep Negi</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
