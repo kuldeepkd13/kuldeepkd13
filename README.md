@@ -15,7 +15,7 @@
 
 - <p>Portfolio - <a href="https://kuldeepkd13.github.io/">Kuldeep Negi</a></p>
 
-- <p>Resume -<a href="https://drive.google.com/file/d/16JrcbczRe513_FSivXWaQdbFUyytkddO/view?usp=share_link">Kuldeep Negi</a></p>
+- <p>Resume -<a href="https://drive.google.com/file/d/1Ql_0Fl-FCuh2_o2XGw5mAtExCJc1b6Ro/view?usp=sharing">Kuldeep Negi</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
